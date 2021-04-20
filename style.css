@@ -1,0 +1,34 @@
+nav {
+    background-color: #606364;
+}
+
+body {
+    max-height: 2000px;
+}
+
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #c7c7c7;
+}
+
+#about {
+    background-color: #ffffff;
+}
+
+#project {
+    background-color: #c7c7c7;
+}
+
+#contact {
+    background-color: #ffffff;
+}
+
+footer {
+    background-color: #606364;
+    color: #ffffff;
+    padding-bottom: 3;
+}
+
+section {
+    padding-top: 5rem;
+}
